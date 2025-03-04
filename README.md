@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 De las finanzas a los datos | 💡 Apasionado por la analítica<br><br>📊 Tengo formación en ADE - Derecho y decidí dar un giro a mi carrera y sumergirme en el mundo del Data Science.<br>📚 Actualmente estoy cursando un Máster en Data Science & AI, perfeccionando mis habilidades en Python, SQL, Machine Learning, Inteligencia Artificial y Visualización de Datos.<br>💡 Me encanta transformar datos en decisiones estratégicas y descubrir insights que generen valor para la empresa.<br>🎯 En búsqueda de mi primer empleo en tecnología, donde pueda aplicar mis conocimientos y seguir creciendo en este apasionante mundo.<br>🤝 ¡Conectemos! Siempre abierto a nuevos desafíos y oportunidades.
+# 💫 About Javier García Roa:
+🚀 From Finance to Data | 💡 Passionate about Analytics<br><br>📊 I have a background in administration and finance, but I decided to take a new direction in my career and dive into the world of Data Science & AI.<br>📚  I work with Python, SQL, Machine Learning, Artificial Intelligence, and Data Visualization.<br>💡 I love transforming data into strategic decisions and uncovering insights that create value for businesses.<br>🎯 Currently seeking job opportunities to apply my knowledge and continue growing in this exciting field.<br>🤝 Let’s connect! Always open to new challenges and opportunities.
 
 
 ## 🌐 Socials:
