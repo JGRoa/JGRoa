@@ -1,5 +1,5 @@
-# 💫 About Javier García Roa:
-🚀 From Finance to Data | 💡 Passionate about Analytics<br><br>📊 I have a background in administration and finance, but I decided to take a new direction in my career and dive into the world of Data Science & AI.<br>📚  I work with Python, SQL, Machine Learning, Artificial Intelligence, and Data Visualization.<br>💡 I love transforming data into strategic decisions and uncovering insights that create value for businesses.<br>🎯 Currently seeking job opportunities to apply my knowledge and continue growing in this exciting field.<br>🤝 Let’s connect! Always open to new challenges and opportunities.
+# 👨‍💻 About Javier García Roa:
+🚀 From Finance to Data | 🔍 Passionate about Analytics<br><br>📊 I have a background in administration and finance, but I decided to take a new direction in my career and dive into the world of Data Science & AI.<br>📚  I work with Python, SQL, Machine Learning, Artificial Intelligence, and Data Visualization.<br>💡 I love transforming data into strategic decisions and uncovering insights that create value for businesses.<br>🎯 Currently seeking job opportunities to apply my knowledge and continue growing in this exciting field.<br>🤝 Let’s connect! Always open to new challenges and opportunities.
 
 
 ## 🌐 Socials:
